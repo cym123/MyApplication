@@ -71,6 +71,9 @@ public class MainActivity extends Activity {
                     mImageView.setImageBitmap( Bitmap.createBitmap(pixels,screenWidth*2/3,screenWidth*2/3, Bitmap.Config.RGB_565));
                 }catch (Exception e)
                 {
+
+
+
                 }
             }
         });

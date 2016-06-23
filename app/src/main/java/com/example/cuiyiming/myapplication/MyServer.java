@@ -13,6 +13,8 @@ public class MyServer extends Service {
 
     public static final String TAG = "MyService";
 
+    //测试版本
+
     @Override
     public void onCreate() {
         super.onCreate();
